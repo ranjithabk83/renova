@@ -1,0 +1,12 @@
+venv/
+ReuseAI/venv/
+**/venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+users.db
